@@ -1,0 +1,83 @@
+Provide player names from main method arguments
+Two player output - 
+
+1: Eric : 0 --> 1 -- LADDER --> 38
+2: Paul : 0 --> 1 -- LADDER --> 38
+3: Eric : 38 --> 39
+4: Paul : 38 --> 43
+5: Eric : 39 --> 43
+6: Paul : 43 --> 49 -- CHUTE --> 19
+7: Eric : 43 --> 45
+8: Paul : 19 --> 20
+9: Eric : 45 --> 51 -- LADDER --> 68
+10: Paul : 20 --> 24
+11: Eric : 68 --> 73
+12: Paul : 24 --> 26
+13: Eric : 73 --> 76
+14: Paul : 26 --> 29
+15: Eric : 76 --> 80 -- LADDER --> 100
+The Winner is Eric!
+
+
+
+Four player output - 
+
+1: Neeraj : 0 --> 3
+2: Eric : 0 --> 1 -- LADDER --> 38
+3: Paul : 0 --> 6
+4: Mark : 0 --> 5
+5: Neeraj : 3 --> 4 -- LADDER --> 14
+6: Eric : 38 --> 39
+7: Paul : 6 --> 12
+8: Mark : 5 --> 9 -- LADDER --> 31
+9: Neeraj : 14 --> 20
+10: Eric : 39 --> 43
+11: Paul : 12 --> 15
+12: Mark : 31 --> 32
+13: Neeraj : 20 --> 23
+14: Eric : 43 --> 44
+15: Paul : 15 --> 19
+16: Mark : 32 --> 33
+17: Neeraj : 23 --> 28 -- LADDER --> 84
+18: Eric : 44 --> 47 -- CHUTE --> 11
+19: Paul : 19 --> 24
+20: Mark : 33 --> 34
+21: Neeraj : 84 --> 85
+22: Eric : 11 --> 14
+23: Paul : 24 --> 26
+24: Mark : 34 --> 38
+25: Neeraj : 85 --> 90
+26: Eric : 14 --> 16 -- CHUTE --> 6
+27: Paul : 26 --> 31
+28: Mark : 38 --> 42
+29: Neeraj : 90 --> 94
+30: Eric : 6 --> 10
+31: Paul : 31 --> 35
+32: Mark : 42 --> 46
+33: Neeraj : 94 --> 96
+34: Eric : 10 --> 15
+35: Paul : 35 --> 41
+36: Mark : 46 --> 49 -- CHUTE --> 19
+37: Neeraj : 96 --> 99
+38: Eric : 15 --> 16 -- CHUTE --> 6
+39: Paul : 41 --> 44
+40: Mark : 19 --> 24
+41: Neeraj: 101  is greater than 100.
+42: Eric : 6 --> 12
+43: Paul : 44 --> 49 -- CHUTE --> 19
+44: Mark : 24 --> 29
+45: Neeraj: 102  is greater than 100.
+46: Eric : 12 --> 14
+47: Paul : 19 --> 23
+48: Mark : 29 --> 35
+49: Neeraj: 102  is greater than 100.
+50: Eric : 14 --> 17
+51: Paul : 23 --> 28 -- LADDER --> 84
+52: Mark : 35 --> 36 -- LADDER --> 43
+53: Neeraj: 105  is greater than 100.
+54: Eric : 17 --> 18
+55: Paul : 84 --> 85
+56: Mark : 43 --> 46
+57: Neeraj : 99 --> 100
+The Winner is Neeraj!
+
